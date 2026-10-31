@@ -33,7 +33,7 @@
 ## Komut satırından APK
 
 ```bash
-gradle :app:assembleDebug
+./gradlew :app:assembleDebug
 ```
 
 APK yolu:
